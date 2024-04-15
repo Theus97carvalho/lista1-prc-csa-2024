@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\média aritmética\média aritmética\bin\Debug\média aritmética.exe.config
+C:\Users\Leda\source\repos\média aritmética\média aritmética\bin\Debug\média aritmética.exe
+C:\Users\Leda\source\repos\média aritmética\média aritmética\bin\Debug\média aritmética.pdb
+C:\Users\Leda\source\repos\média aritmética\média aritmética\obj\Debug\média aritmética.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\média aritmética\média aritmética\obj\Debug\média aritmética.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\média aritmética\média aritmética\obj\Debug\média aritmética.exe
+C:\Users\Leda\source\repos\média aritmética\média aritmética\obj\Debug\média aritmética.pdb

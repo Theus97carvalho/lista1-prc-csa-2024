@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\bin\Debug\AreaTrinangulo.exe.config
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\bin\Debug\AreaTrinangulo.exe
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\bin\Debug\AreaTrinangulo.pdb
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\obj\Debug\AreaTrinangulo.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\obj\Debug\AreaTrinangulo.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\obj\Debug\AreaTrinangulo.exe
+C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\obj\Debug\AreaTrinangulo.pdb

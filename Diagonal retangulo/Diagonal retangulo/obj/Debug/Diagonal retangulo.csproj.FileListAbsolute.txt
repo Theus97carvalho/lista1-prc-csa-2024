@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\bin\Debug\Diagonal retangulo.exe.config
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\bin\Debug\Diagonal retangulo.exe
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\bin\Debug\Diagonal retangulo.pdb
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\obj\Debug\Diagonal retangulo.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\obj\Debug\Diagonal retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\obj\Debug\Diagonal retangulo.exe
+C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\obj\Debug\Diagonal retangulo.pdb

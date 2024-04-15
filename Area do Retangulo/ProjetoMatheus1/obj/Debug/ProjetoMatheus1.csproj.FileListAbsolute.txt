@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\bin\Debug\ProjetoMatheus1.exe.config
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\bin\Debug\ProjetoMatheus1.exe
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\bin\Debug\ProjetoMatheus1.pdb
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\obj\Debug\ProjetoMatheus1.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\obj\Debug\ProjetoMatheus1.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\obj\Debug\ProjetoMatheus1.exe
+C:\Users\Leda\source\repos\ProjetoMatheus1\ProjetoMatheus1\obj\Debug\ProjetoMatheus1.pdb

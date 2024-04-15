@@ -1,0 +1,6 @@
+﻿A construção começou em 02:24...
+1>------ Compilação iniciada: Projeto: AreaTrinangulo, Configuração: Debug Any CPU ------
+1>C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\Program.cs(15,17,15,18): warning CS0168: A variável "c" está declarada, mas nunca é usada
+1>  AreaTrinangulo -> C:\Users\Leda\source\repos\AreaTrinangulo\AreaTrinangulo\bin\Debug\AreaTrinangulo.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 02:24 e levou 02,160 segundos ==========

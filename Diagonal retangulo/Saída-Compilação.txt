@@ -1,0 +1,5 @@
+﻿A construção começou em 23:48...
+1>------ Compilação iniciada: Projeto: Diagonal retangulo, Configuração: Debug Any CPU ------
+1>  Diagonal retangulo -> C:\Users\Leda\source\repos\Diagonal retangulo\Diagonal retangulo\bin\Debug\Diagonal retangulo.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 23:48 e levou 00,474 segundos ==========
