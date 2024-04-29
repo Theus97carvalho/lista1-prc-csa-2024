@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\bin\Debug\conversor celcius.exe.config
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\bin\Debug\conversor celcius.exe
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\bin\Debug\conversor celcius.pdb
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\obj\Debug\conversor celcius.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\obj\Debug\conversor celcius.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\obj\Debug\conversor celcius.exe
+C:\Users\Leda\source\repos\conversor celcius\conversor celcius\obj\Debug\conversor celcius.pdb

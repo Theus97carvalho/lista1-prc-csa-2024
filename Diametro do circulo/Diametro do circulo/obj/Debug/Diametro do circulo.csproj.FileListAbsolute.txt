@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\bin\Debug\Diametro do circulo.exe.config
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\bin\Debug\Diametro do circulo.exe
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\bin\Debug\Diametro do circulo.pdb
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\obj\Debug\Diametro do circulo.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\obj\Debug\Diametro do circulo.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\obj\Debug\Diametro do circulo.exe
+C:\Users\Leda\source\repos\Diametro do circulo\Diametro do circulo\obj\Debug\Diametro do circulo.pdb

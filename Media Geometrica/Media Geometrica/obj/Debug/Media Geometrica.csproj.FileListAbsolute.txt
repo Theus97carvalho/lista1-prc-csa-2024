@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\obj\Debug\Media Geometrica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\obj\Debug\Media Geometrica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\bin\Debug\Media Geometrica.exe.config
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\bin\Debug\Media Geometrica.exe
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\bin\Debug\Media Geometrica.pdb
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\obj\Debug\Media Geometrica.exe
+C:\Users\Leda\source\repos\Media Geometrica\Media Geometrica\obj\Debug\Media Geometrica.pdb

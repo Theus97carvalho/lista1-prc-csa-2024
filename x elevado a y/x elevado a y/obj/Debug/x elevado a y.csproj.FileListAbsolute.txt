@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\bin\Debug\x elevado a y.exe.config
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\bin\Debug\x elevado a y.exe
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\bin\Debug\x elevado a y.pdb
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\obj\Debug\x elevado a y.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\obj\Debug\x elevado a y.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\obj\Debug\x elevado a y.exe
+C:\Users\Leda\source\repos\x elevado a y\x elevado a y\obj\Debug\x elevado a y.pdb

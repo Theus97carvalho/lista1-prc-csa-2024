@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\milha maritima\milha maritima\bin\Debug\milha maritima.exe.config
+C:\Users\Leda\source\repos\milha maritima\milha maritima\bin\Debug\milha maritima.exe
+C:\Users\Leda\source\repos\milha maritima\milha maritima\bin\Debug\milha maritima.pdb
+C:\Users\Leda\source\repos\milha maritima\milha maritima\obj\Debug\milha maritima.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\milha maritima\milha maritima\obj\Debug\milha maritima.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\milha maritima\milha maritima\obj\Debug\milha maritima.exe
+C:\Users\Leda\source\repos\milha maritima\milha maritima\obj\Debug\milha maritima.pdb

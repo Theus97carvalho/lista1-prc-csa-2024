@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\bin\Debug\Cotação dolar.exe.config
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\bin\Debug\Cotação dolar.exe
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\bin\Debug\Cotação dolar.pdb
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\obj\Debug\Cotação dolar.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\obj\Debug\Cotação dolar.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\obj\Debug\Cotação dolar.exe
+C:\Users\Leda\source\repos\Cotação dolar\Cotação dolar\obj\Debug\Cotação dolar.pdb

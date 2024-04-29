@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media Geometrica", "Media Geometrica\Media Geometrica.csproj", "{D8621CAC-D404-4C99-9FF4-105F979E9000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8621CAC-D404-4C99-9FF4-105F979E9000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8621CAC-D404-4C99-9FF4-105F979E9000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8621CAC-D404-4C99-9FF4-105F979E9000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8621CAC-D404-4C99-9FF4-105F979E9000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EB1E0E-8CB5-4430-94E0-C317C0D842DF}
+	EndGlobalSection
+EndGlobal
